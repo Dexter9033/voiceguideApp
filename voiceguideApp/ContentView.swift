@@ -1,11 +1,3 @@
-//
-//  ContentView.swift
-//  voiceguideApp
-//
-//  Created by Tim on 12/1/2023.
-//
-
-//testings
 import SwiftUI
 
 struct ContentView: View {
@@ -14,7 +6,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("Hello, world!")
+            Text("Hello, earthsss!")
         }
         .padding()
     }
